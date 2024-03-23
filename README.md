@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning Data Science with the HyperionDev bootcamp in partinership with UK's DfE.
+I'm currently learning Data Science with the HyperionDev bootcamp in partnership with UK's DfE.
 
 If you want to know more about me just check my LinkedIn profile: www.linkedin.com/in/francine-cezar-427017a0
 
